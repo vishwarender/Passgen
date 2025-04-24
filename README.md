@@ -1,8 +1,3 @@
-Here’s a nice `README.md` for your project based on the links and image you gave:
-
----
-
-```markdown
 # 🔐 Passgen v1
 
 ![Passgen Screenshot](https://i.ibb.co/1tMNYvV2/image.png)
@@ -60,8 +55,4 @@ Feel free to fork, use, or contribute to this project!
 
 This project is open-source and free to use!
 
-```
 
----
-
-Let me know if you want to add GitHub badges, or turn it into a GitHub Pages site too.
